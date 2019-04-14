@@ -1,0 +1,16 @@
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.log
+.classpath
+.project
+maven-eclipse.xml
+.settings/
+.externalToolBuilders
+logs/
+tmp/
+
+**/.DS_Store
+
